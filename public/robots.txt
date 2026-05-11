@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://private-credit.noahstjohn.com/sitemap-index.xml
